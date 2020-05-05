@@ -1,4 +1,4 @@
-# How to create your workshop with Ethereum Play tool
+# How to create your workshop
 
 **Estimated time:** 25min
 
@@ -9,6 +9,6 @@ Learning resources, published somewhere online:
   - articles on a web page, 
   - images on imgur.com etc.
 
-[=> SEE THE TUTORIAL](https://play.ethereum.org/workshop-create-workshop/)
+[=> SEE THE TUTORIAL](https://wizardamigos.github.io/workshop-create-workshop)
 
 
