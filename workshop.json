@@ -1,35 +1,32 @@
 {
-  "title": "Learn JavaScript - Workshop - ",
-  "icon": "https://tinyurl.com/ye25fddy",
-  "chat": "https://gitter.im/ethereum/play/~embed",
-  "lessons": [
-    {
-      "title": "Lesson 1 : Step-by-step tutorial for creating workshops",
-      "lesson": "//slides.com/ninabreznik/deck-17/embed",
-      "info": [
-        "In this step by step tutorial we will walk you through every little step ",
-        "you will need to do to create your own workshop. ",
-        "",
-        "Ethereum Play is a p2p protocol for creating decentralized education materials. ",
-        "Every workshop is connected to other workshop through `needs` and `unlocks` ",
-        "defined in a workshop.json file and published on a skill tree that guides learners ",
-        "through wast resources and help them on the journey to learn about the ecosystem so  ",
-        "they can later actively co-create the future we want to live in.  ",
-        "",
-        "If you have any questions or comments, please click the chat tab and let us know ",
-        "how we can help you! "
-      ]
-    },
-    {
-      "title": "Lesson 1 : Lorem Ipsum",
-      "lesson": "https://youtu.be/5qzKTbnhyhc",
-      "info": [
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",       
-      ]
-    }
- ],
-  "needs": [
-  ],
-  "unlocks": [
-  ]
+	"title": "Learn JavaScript - Workshop - ",
+	"icon": "https://tinyurl.com/ye25fddy",
+	"chat": "https://gitter.im/ethereum/play/~embed",
+	"lessons": [{
+			"title": "Lesson 1 : Step-by-step tutorial for creating workshops",
+			"lesson": "//slides.com/ninabreznik/deck-17/embed",
+			"info": [
+				"In this step by step tutorial we will walk you through every little step ",
+				"you will need to do to create your own workshop. ",
+				"",
+				"Ethereum Play is a p2p protocol for creating decentralized education materials. ",
+				"Every workshop is connected to other workshop through `needs` and `unlocks` ",
+				"defined in a workshop.json file and published on a skill tree that guides learners ",
+				"through wast resources and help them on the journey to learn about the ecosystem so  ",
+				"they can later actively co-create the future we want to live in.  ",
+				"",
+				"If you have any questions or comments, please click the chat tab and let us know ",
+				"how we can help you! "
+			]
+		},
+		{
+			"title": "Lesson 1 : Lorem Ipsum",
+			"lesson": "https://youtu.be/5qzKTbnhyhc",
+			"info": [
+				"Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+			]
+		}
+	],
+	"needs": [],
+	"unlocks": []
 }
